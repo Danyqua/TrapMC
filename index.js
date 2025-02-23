@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["👑 Io sono TrapMC"," 👍Bot Fatto da Danyqua e l0r3ntz2795","Che aspetti ad entrare su TrapMC🔥","Nuovi contenuti in arrivo🔥", "🎮 Gioca a TrapMC];
+const statusMessages = ["👑 Io sono TrapMC"," 👍Bot Fatto da Danyqua e l0r3ntz2795","Che aspetti ad entrare su TrapMC🔥","Nuovi contenuti in arrivo🔥", "🎮 Gioca a TrapMC"];
 const statusTypes = [ 'dnd', 'idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
